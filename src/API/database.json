@@ -1,0 +1,50 @@
+{
+    "users": [
+        {
+            "id":1,
+            "userName": "Will",
+            "email": "cain910772@yahoo.com"
+        },
+        {
+            "id":2,
+            "userName": "Larry",
+            "email": "test@yahoo.com"
+        }
+    ],
+    "messages": [
+        {
+            "id":1,
+            "message": "Try this chat out man!"
+        },
+        {
+            "id":2,
+            "message": "Hope this works!"
+        }
+    ],
+    "events": [
+        {
+            "id":1,
+            "eventName": "Lunch",
+            "eventDate": "09/10/1977",
+            "location": "AppleBees"
+        },
+        {
+            "id":2,
+            "eventName": "Race",
+            "eventDate": "09/02/1977",
+            "location": "Darlington"
+        }
+    ],
+    "news:":[
+        {   
+            "id":1,
+            "headline": "Trump Sucks!",
+            "story": "Trump kills kittens!,Melania eats them!"
+        },
+        {
+            "id":2,
+            "headline": "Jeff Sessions is a hobbit!",
+            "story": "Giving a bad name to Hobbits everywhere, Jeff Sessions finally admits he is the product of a hobbit breeding with a Nutria!"
+        }
+    ]
+}
